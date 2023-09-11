@@ -1,0 +1,14 @@
+/Users/Andrew/MyApp/bin/Debug/net7.0/MyApp
+/Users/Andrew/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/Andrew/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/Andrew/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/Andrew/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/Andrew/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Andrew/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/Andrew/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/Andrew/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/Andrew/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/Andrew/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/Andrew/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/Andrew/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/Andrew/MyApp/obj/Debug/net7.0/ref/MyApp.dll
